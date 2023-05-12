@@ -1,0 +1,15 @@
+- Frontend javasript library
+- excellent cross-platform support
+- React updates what we see on a Document Object Model (DOM)
+- React uses VirtualDom
+    - javasript Object
+    - updating this is much faster 
+    - Do not have to worry about the javasript dom api
+- Pre-requisite to learn React ---> Javascript
+- Component-based font-end library
+    - All parts of the web application are divided into small Components
+        - Component - small piece of user interface
+            - Allows to split the UI into independent and reusable parts
+            - Functional Components
+            - Class-based Components
+            

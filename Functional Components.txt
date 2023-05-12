@@ -1,0 +1,8 @@
+import React from 'react'
+
+const Example = () => {
+    return <div> Hello World! </div> //this is not HTML, it is JSX
+}
+
+JSX is used to describe what the UI should look like
+
